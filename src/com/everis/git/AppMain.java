@@ -6,7 +6,7 @@ public class AppMain {
 
 		System.out.println("Hola mundo");
 
-		
+		System.out.println("Esto es un nuevo saludo");
 		
 	}
 }
